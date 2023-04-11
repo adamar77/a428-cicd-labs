@@ -27,4 +27,5 @@ node {
                 sh './jenkins/scripts/test.sh' 
         }
     }
+    
 }
